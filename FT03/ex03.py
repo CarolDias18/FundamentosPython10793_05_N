@@ -5,14 +5,11 @@
 while True:
     try:
         numero = int(input("Por favor, insira um número: "))
-        break
     except:
         print("O valor inserido não é um número inteiro")
-        numero = int(input("Por favor, insira um número: "))
+       
     
       
-
-
 if numero % 2 == 0:
     print(f"O número {numero} é par.")
 else:
