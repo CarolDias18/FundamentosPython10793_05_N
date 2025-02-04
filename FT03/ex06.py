@@ -23,5 +23,6 @@ elif value2 >= value1 and value2 >= value3:
     print(f"O valor {value2} é o máximo dos nºs introduzidos ({value1}, {value2}, {value3})")
 else:
     print(f"O valor {value3} é o máximo dos nºs introduzidos ({value1}, {value2}, {value3})")
+    
 
 
