@@ -3,10 +3,11 @@
 # 2. Verificar se o número é nulo, positivo ou negativo
 # 3. Mostrar o resultado
 n = int(input("Introduza um número: "))
+
 if n > 0:
     print("O número é positivo.")
 elif n < 0:
     print("O número é negativo.")
 else:
-    print("O número é nulo.")
+    print("O número é zero.")
     
