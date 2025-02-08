@@ -30,3 +30,4 @@ while numero <= 10:
 
     # Incrementa o número para passar para a próxima tabuada
     numero += 1  # Após terminar uma tabuada, avançamos para o próximo número
+    
