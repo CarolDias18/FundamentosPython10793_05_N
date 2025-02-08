@@ -14,3 +14,4 @@ IMC<17 - Muito abaixo do peso ideal
 •
 IMC>=40 - Obesidade III (mórbida)
 Nota: IMC=massa/(altura*altura)'''
+
