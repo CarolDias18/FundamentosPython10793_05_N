@@ -12,5 +12,6 @@ match estadocivil:
             print("Divorciado")
         case _:
             print("Estado Civil inválido.")
-    
+       
+#
   
