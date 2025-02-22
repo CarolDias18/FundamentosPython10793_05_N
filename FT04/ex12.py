@@ -9,8 +9,9 @@ while not n.isdigit():
 n=int(n)
 
 
-fatorial = 1
+#%%fatorial = 1
 for i in range(1,n+1):
     fatorial=fatorial*i
 
 print("fatorial = ", fatorial)
+# %%
